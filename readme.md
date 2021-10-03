@@ -10,3 +10,6 @@ This repo is a clone of https://github.com/yuxincheng73/ECE444-F2021-Lab3.git
 
 ## Activity 3
 ![image](https://user-images.githubusercontent.com/50343180/135736598-71268416-e8b5-431c-8f99-c4574f16eebf.png)
+
+## Activity 4
+![image](https://user-images.githubusercontent.com/50343180/135736684-5f3bd1a3-1319-44b1-8c24-dc9d82b40990.png)
